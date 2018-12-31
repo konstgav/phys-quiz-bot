@@ -3,5 +3,5 @@ class Scenario:
 		self.Name = name
 		self.Info = info
 		self.Tests = tests
-	def AddTest(test):
-		Tests.append(test)
+	def AddTest(self, test):
+		self.Tests.append(test)

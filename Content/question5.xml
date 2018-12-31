@@ -1,0 +1,10 @@
+<question theme = "Делимость чисел">
+	<text>Какие из предложенных чисел делятся и на 3 и на 4?</text>
+	<answers>
+		<answer iscorrect="true">12</answer>
+		<answer>64</answer>
+		<answer>82</answer>
+		<answer iscorrect="true">144</answer>
+		<answer>65</answer>
+	</answers>
+</question>

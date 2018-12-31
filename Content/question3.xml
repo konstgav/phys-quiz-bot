@@ -1,0 +1,10 @@
+<question theme = "Делимость чисел">
+	<text>Найти наибольший общий делитель чисел 16 и 18</text>
+	<answers>
+		<answer>1</answer>
+		<answer iscorrect="true">2</answer>
+		<answer>3</answer>
+		<answer>4</answer>
+		<answer>6</answer>
+	</answers>
+</question>

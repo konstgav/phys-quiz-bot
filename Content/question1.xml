@@ -1,0 +1,9 @@
+<question theme = "Делимость чисел">
+ <text>Найти наибольшее число от 1 до 10, которое делится на 7 и на 5.</text>
+ <answers>
+  <answer>1</answer>
+  <answer>2</answer>
+  <answer>3</answer>
+  <answer iscorrect = "true">нет такого числа</answer>
+ </answers>
+</question>

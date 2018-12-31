@@ -1,0 +1,9 @@
+<question theme = "Делимость чисел">
+ <text>Найти наименьшее общее кратное числел 3 и 6 </text>
+ <answers>
+  <answer>1</answer>
+  <answer>3</answer>
+  <answer iscorrect = "true">6</answer>
+  <answer>18</answer>
+ </answers>
+</question>
